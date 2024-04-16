@@ -6,8 +6,8 @@ public class RemoveDuplicatesFromASortedArray {
     public static void main(String[] args) {
         int[] nums = {0,1,2,2,2};
 
-        int[] removedDuplicates = RemoveDuplicatesFromASortedArray.removeDuplicete(nums);
-        System.out.println(Arrays.toString(removedDuplicates));
+
+        System.out.println(Arrays.toString(RemoveDuplicatesFromASortedArray.removeDuplicete(nums)));
     }
     public static int[] removeDuplicete(int[] nums){
 
