@@ -8,7 +8,7 @@ public class Convertor {
         System.out.println("Please enter a hex (0x) or binary (0b) number: ");
 
         String hexString = input.nextLine();
-        System.out.println(Arrays.toString(Convertor.Converted(output));
+//        System.out.println(Arrays.toString(Convertor.Converted(output));
 
     }
     public static int[] Converted(int[] nums){
